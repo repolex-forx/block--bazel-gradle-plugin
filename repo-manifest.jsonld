@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/block/bazel-gradle-plugin/commit/87a2632b1621daa1ce6066754e28f9bb1dd46a73",
       "git:hexsha": "87a2632b1621daa1ce6066754e28f9bb1dd46a73",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-02T11:28:23.609346+00:00"
     }
   ]
 }
