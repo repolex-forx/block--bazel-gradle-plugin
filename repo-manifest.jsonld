@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/bazel-gradle-plugin/commit/87a2632b1621daa1ce6066754e28f9bb1dd46a73",
       "git:hexsha": "87a2632b1621daa1ce6066754e28f9bb1dd46a73",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
