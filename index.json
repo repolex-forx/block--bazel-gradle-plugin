@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "bazel-gradle-plugin",
+  "versions": [
+    {
+      "commit": "87a2632b1621daa1ce6066754e28f9bb1dd46a73",
+      "tag": "main",
+      "parsed_at": "2026-10-02T11:28:23.609703+00:00"
+    }
+  ]
+}
